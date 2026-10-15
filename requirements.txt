@@ -1,0 +1,19 @@
+
+# Data analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Database connectivity
+sqlalchemy
+psycopg[binary]
+
+# Jupyter environment
+jupyter
+ipykernel
+
+# Excel file support
+openpyxl
